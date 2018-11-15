@@ -1,2 +1,2 @@
 # ReactNativeBottomNavigation
-![Optional Text](../masterassets/screenShots/Home.png)
+![Optional Text](../master/assets/screenShots/Home.png)
