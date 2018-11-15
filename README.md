@@ -1,6 +1,6 @@
 # ReactNativeBottomNavigation Demo
 
-Simple example for React Native Bottom Navigation by using ** React Native Navigation v2**  https://wix.github.io/react-native-navigation/v2/
+Simple example for React Native Bottom Navigation by using **React Native Navigation v2**  https://wix.github.io/react-native-navigation/v2/
 
 ## iOS ScreenShots
 <p align="center">
@@ -11,5 +11,5 @@ Simple example for React Native Bottom Navigation by using ** React Native Navig
 </p>
 
 ## Android Gif
-<img src="https://github.com/dev-ahmad/ReactNativeBottomNavigation/blob/master/assets/gif/react%20native%20navigation.gif" width="280" height="40" />
+<img src="https://github.com/dev-ahmad/ReactNativeBottomNavigation/blob/master/assets/gif/react%20native%20navigation.gif" width="280"/>
 
